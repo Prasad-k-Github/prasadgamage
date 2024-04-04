@@ -1,0 +1,17 @@
+name: Update README
+
+on:
+  push:
+    branches:
+      - main  # Update this to your default branch
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Run Update Script
+        run: bash update_readme.sh
+
