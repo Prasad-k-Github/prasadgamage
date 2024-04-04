@@ -13,5 +13,5 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Run Update Script
-        run: bash update_readme.sh
+        run: bash update_readme.yml
 
