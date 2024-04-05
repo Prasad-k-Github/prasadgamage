@@ -1,4 +1,4 @@
-                                                      ### Hi there, I'm Prasad K Gamage! 👋
+### Hi there, I'm Prasad K Gamage! 👋
 
 👀 I’m interested in technology, programming, and open-source projects.
 
