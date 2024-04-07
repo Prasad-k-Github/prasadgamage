@@ -2,17 +2,8 @@
   <h3>Hi there, I'm Prasad K Gamage! 👋</h3>
 </div>
 
-👀 I’m interested in technology, programming, and open-source projects.
+👀 I’m interested in technology, programming, and open-source projects. 🌱 I’m currently learning new technologies and expanding my skills. 💞️ I’m looking to collaborate on projects that make a positive impact and contribute to the community. 📫 You can reach me via [website](https://www.prasadkgamage.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/prasad-k-gamage-3a97992b1/). 😄 Pronouns: He/Him ⚡ Fun fact: I'm a coffee enthusiast and love exploring new cafes in my free time!
 
-🌱 I’m currently learning new technologies and expanding my skills.
-
-💞️ I’m looking to collaborate on projects that make a positive impact and contribute to the community.
-
-📫 You can reach me via [website](https://www.prasadkgamage.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/prasad-k-gamage-3a97992b1/).
-
-😄 Pronouns: He/Him
-
-⚡ Fun fact: I'm a coffee enthusiast and love exploring new cafes in my free time!
 
 ### Programming Languages:
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
