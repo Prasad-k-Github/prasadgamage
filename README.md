@@ -2,8 +2,19 @@
   <h3>Hi there, I'm <font color="blue">Prasad K Gamage</font>! 👋</h3>
 </div>
 
-<font color="green">👀</font> I’m interested in technology, programming, and open-source projects. <font color="orange">🌱</font> I’m currently learning new technologies and expanding my skills. <font color="purple">💞️</font> I’m looking to collaborate on projects that make a positive impact and contribute to the community. <font color="red">📫</font> You can reach me via <a href="https://www.prasadkgamage.com"><font color="brown">website</font></a> or connect with me on <a href="https://www.linkedin.com/in/prasad-k-gamage-3a97992b1/"><font color="black">LinkedIn</font></a>. <font color="blue">😄</font> Pronouns: He/Him <font color="green">⚡</font> Fun fact: I'm a coffee enthusiast and love exploring new cafes in my free time!
+👀 I’m interested in technology, programming, and open-source projects. Currently, I'm passionate about exploring advancements in artificial intelligence, cloud computing, and cybersecurity.
 
+🌱 I’m constantly learning new technologies and expanding my skills. I enjoy diving into online courses, attending workshops, and participating in hackathons to enhance my knowledge.
+
+💞️ I’m actively seeking opportunities to collaborate on projects that make a positive impact and contribute to the community. Whether it's developing software solutions for social good or contributing to open-source projects, I'm eager to be part of initiatives that drive positive change.
+
+📫 You can reach me via my [website](https://www.prasadkgamage.com), where you can find my portfolio and contact information. Additionally, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/prasad-k-gamage-3a97992b1/). I'm always open to networking and discussing potential collaborations.
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: Apart from my passion for technology, I'm a coffee enthusiast and love exploring new cafes in my free time! I'm also an avid traveler and enjoy immersing myself in different cultures.
+
+<hr>
 ### Programming Languages:
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
