@@ -1,6 +1,7 @@
 <div align="center">
   <h3>Hi there, I'm <font color="blue">Prasad K Gamage</font>! 👋</h3>
 </div>
+
 👀 I’m interested in technology, programming, and open-source projects.
 
 🌱 I’m currently learning new technologies and expanding my skills.
