@@ -2,17 +2,7 @@
   <h3>Hi there, I'm <font color="blue">Prasad K Gamage</font>! 👋</h3>
 </div>
 
-👀 I’m interested in technology, programming, and open-source projects.
-
-🌱 I’m currently learning new technologies and expanding my skills.
-
-💞️ I’m looking to collaborate on projects that make a positive impact and contribute to the community.
-
-📫 You can reach me via [website](https://www.prasadkgamage.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/prasad-k-gamage-3a97992b1/).
-
-😄 Pronouns: He/Him
-
-⚡ Fun fact: I'm a coffee enthusiast and love exploring new cafes in my free time!
+<font color="green">👀</font> I’m interested in technology, programming, and open-source projects. <font color="orange">🌱</font> I’m currently learning new technologies and expanding my skills. <font color="purple">💞️</font> I’m looking to collaborate on projects that make a positive impact and contribute to the community. <font color="red">📫</font> You can reach me via <a href="https://www.prasadkgamage.com"><font color="brown">website</font></a> or connect with me on <a href="https://www.linkedin.com/in/prasad-k-gamage-3a97992b1/"><font color="black">LinkedIn</font></a>. <font color="blue">😄</font> Pronouns: He/Him <font color="green">⚡</font> Fun fact: I'm a coffee enthusiast and love exploring new cafes in my free time!
 
 ### Programming Languages:
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -75,4 +65,3 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/prasadgamage)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/prasad_k_gamage_97/)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/thilaacreations)
-
