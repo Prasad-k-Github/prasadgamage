@@ -12,9 +12,9 @@
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: Apart from my passion for technology, I'm a coffee enthusiast and love exploring new cafes in my free time! I'm also an avid traveler and enjoy immersing myself in different cultures.
+⚡ Fun fact: Apart from my passion for technology, I'm a coffee enthusiast and love exploring new cafes in my free time! I'm also an avid traveler and enjoy immersing myself in different cultures.<hr>
 
-<hr>
+
 ### Programming Languages:
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
