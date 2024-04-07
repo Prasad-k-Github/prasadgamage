@@ -1,4 +1,6 @@
-### Hi there, I'm Prasad K Gamage! 👋
+<div align="center">
+  <h3>Hi there, I'm Prasad K Gamage! 👋</h3>
+</div>
 
 👀 I’m interested in technology, programming, and open-source projects.
 
